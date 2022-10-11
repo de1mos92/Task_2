@@ -20,7 +20,7 @@
 // }
 
 // for (a = 5, b = 3; a < 10; a++) {
-	
+
 // 	c = a * b
 // 	console.log(a,b,c)
 //   }
